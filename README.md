@@ -1,6 +1,6 @@
 # Student Management System
 
-A command line project built using Python and SQLITE that helps in students informations management. It is a program that create a sql database table(if it does not exist) that store an id that is unique, name, age, program and grade of each student. A student information can be added, searched for, updated, deleted and sorted in some specific orders. The class statistics, calculated by the database, can be viewed.
+A command line project built using Python and SQLITE that helps in students informations management. It is a program that create a sql database table(if it does not exist) that store an id that is unique, name, age, program and grade of each student. A student information can be added, searched for, updated, deleted and sorted in some specific orders. The class statistics, calculated by the database, can be viewed. The program also includes data validation and error handling.
 
 # Features
 - Add students
@@ -19,6 +19,7 @@ A command line project built using Python and SQLITE that helps in students info
 
 # What I learned
 - Creating a database in sqlite
+- Parameterized queries to prevent SQL injection threats.
 - SQL
 - CRUD
 - Handling SQL in Python
