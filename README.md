@@ -8,18 +8,19 @@ A command line project built using Python and SQLITE that helps in students info
 - Search students
 - Update students
 - Delete students
-- Caluclate class statistica
+- Caluclate class statistics
 - Sort students
 - Exit program
 
 # Technologies
 - Python
-- SQLITE
+- SQLite
 - Object oriented programming
 
 # What I learned
 - Creating a database in sqlite
 - SQL
+- CRUD
 - Handling SQL in Python
 
 # Screenshot
@@ -31,3 +32,6 @@ A command line project built using Python and SQLITE that helps in students info
 # References
 - Corey Schafer. (2017, 18 Apr). Python SQLite Tutorial: Complete Overview - Creating a Database, Table, and Running Queries
 - Bodnar J. (2025, 15 Apr). Python sqlite3.Cursor.rowcount Attribute. ZETCODE. https://zetcode.com/python/sqlite3-cursor-rowcount/
+
+# AI Assistance
+ChatGPT was used as a development aid for debugging, code review and suggestions for improving code quality and structure. The code was written, tested and refined by me and I am responsible for maintaining and understanding the code.
