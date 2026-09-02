@@ -174,10 +174,10 @@ class StudentManagementSystem:
                 return"Sorry! Options not choosen."
 
 def menu_display():
-    return "============================\n| Student Management System |\n============================\n1. Add students\n2. View students\n3. Search students\n4. Update students\n5. Delete students\n6. Calculate class statistics\n7. Sort student\n8. Exit program"
+    return "\n============================\n| Student Management System |\n============================\n1. Add students\n2. View students\n3. Search students\n4. Update students\n5. Delete students\n6. Calculate class statistics\n7. Sort student\n8. Exit program"
 
 def sort_students_menu():
-    return "====================\n| Sort students by: |\n====================\n1. Name A -> Z\n2. Name Z -> A\n3. Grade lowest to highest\n4. Grade highest to lowest\n5. Age lowest to highest\n6. Age highest to lowest"
+    return "\n====================\n| Sort students by: |\n====================\n1. Name A -> Z\n2. Name Z -> A\n3. Grade lowest to highest\n4. Grade highest to lowest\n5. Age lowest to highest\n6. Age highest to lowest"
 
 def update_students_menu():
-    return "====================\n| Choose data to update: |\n====================\n1. Name \n2. Age \n3. Program \n4. Grade"
+    return "\n==========================\n| Choose data to update: |\n==========================\n1. Name \n2. Age \n3. Program \n4. Grade"
